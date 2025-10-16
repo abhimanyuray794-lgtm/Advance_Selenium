@@ -6,5 +6,6 @@ public class Practice {
 	@Test
 	public void myMethod() {
 		System.out.println("Hello git-bash");
+		System.out.println("Hello git-bash1");
 	}
 }
