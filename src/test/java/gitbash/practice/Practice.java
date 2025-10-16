@@ -7,5 +7,6 @@ public class Practice {
 	public void myMethod() {
 		System.out.println("Hello git-bash");
 		System.out.println("Hello git-bash1");
+		System.out.println("Hello git-bash2");
 	}
 }
